@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compose-VisitCard</string>
+    <string name="name">Jennifer Doe</string>
+    <string name="title">Android Developer</string>
+    <string name="phone">+33 6 67 01 09 19</string>
+    <string name="share">\@AndroidDev</string>
+    <string name="mail">jennifer@doe.com</string>
+</resources>
